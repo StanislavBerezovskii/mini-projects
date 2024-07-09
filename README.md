@@ -1,2 +1,2 @@
 # mini-projects
-A repositorz for various small pet projects and exercizes 
+A repository for various small pet projects and exercizes 
